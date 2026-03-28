@@ -1,0 +1,5 @@
+{
+  "name": "BizIntel: News Intelligence System",
+  "description": "Transforms raw business news into an interactive, zoomable intelligence interface with causal chains, entity graphs, and future scenarios.",
+  "requestFramePermissions": []
+}
